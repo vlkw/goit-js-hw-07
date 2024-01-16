@@ -18,3 +18,9 @@ body {
     display: flex;
     gap: 16px;
 }
+
+.gallery-image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
